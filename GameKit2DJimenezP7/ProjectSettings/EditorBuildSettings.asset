@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2D GameKit.unity
     guid: c3b8c1aa9c47c704d816f386cd25be4a
+  - enabled: 1
+    path: Assets/2DGameKit.unity
+    guid: 228f491c5bf0a0641b18c0ac72939c2c
   m_configObjects: {}
